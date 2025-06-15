@@ -1,7 +1,7 @@
 # 🚀 ISRO IRoC 2025 – Rover Challenge  
 **Team MARVEN | ID: 10729**
 
-![Rover Preview](rover_preview.jpeg)
+![Rover Preview](image.png)
 
 A terrain-adaptive **Autonomous Mars Rover Prototype** developed for the **ISRO IRoC 2025 Challenge**. Designed for simulated Martian exploration, the rover features robust mobility, object interaction, and mission-ready autonomy.
 
